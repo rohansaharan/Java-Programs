@@ -65,7 +65,6 @@ class BinarySearchTree {
         }
     }
  
-    // Driver Program to test above functions
     public static void main(String[] args)
     {
         BinarySearchTree tree = new BinarySearchTree();
